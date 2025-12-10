@@ -17,7 +17,7 @@ This is a UI prototype — backend/model inference is mocked for demonstration. 
 1. Install dependencies:
 
 ```powershell
-cd c:\Users\darsh\Desktop\StrokeDetection
+cd c:\Users\Dhanalakshmi\Desktop\StrokeDetection
 npm install
 ```
 
