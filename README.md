@@ -36,4 +36,4 @@ npm run dev
 - Replace mocked charts with real metrics from training logs.
 - Add dark-mode toggle and animations (optional).
 
-Contact:darshangowda4618@gmail.com
+Contact:dhanumh2004@gmail.com
